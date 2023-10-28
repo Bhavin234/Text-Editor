@@ -9,7 +9,8 @@ The Text Editor is a web-based application built with HTML, CSS, and JavaScript 
 - **Formatting**: Apply bold, italics, and underline styles to text.
 
 ## Preview
-![Text Editor Screenshot](/images/screenshot.png)
+<img width="960" alt="image" src="https://github.com/Bhavin234/Text-Editor/assets/104425282/d2600a4d-64b4-405a-931b-56b1308d62b9">
+
 
 ## How to Use
 1. Open the `index.html` file in your web browser.
@@ -18,7 +19,7 @@ The Text Editor is a web-based application built with HTML, CSS, and JavaScript 
 4. Apply formatting styles with the "Bold," "Italic," and "Underline" buttons.
 
 ## Credits
-This project was created by [Your Name].
+This project was created by Bhavin Sharma.
 
 ## License
 This project is open-source and available under the [MIT License].
